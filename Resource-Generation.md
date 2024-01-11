@@ -6,4 +6,4 @@ Will generate 1 random ore above it per tick. Mine the ore away to generate anot
 
 ## Raw Conversion Generator
 
-Insert a raw ore of any kind and it will generate a corresponding ore above it for you to mine.
+Insert a raw ore of any kind and it will generate a corresponding ore above it for you to mine. There is an upgraded version of this block that will produce an item in its inventory instead of placing a block in the world. This would be available once you obtain Steel Ingots.
