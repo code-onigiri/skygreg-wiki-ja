@@ -1,4 +1,4 @@
-# # This page will contain information regarding resource generation.
+# This page will contain information regarding resource generation.
 
 ***
 
