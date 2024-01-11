@@ -1,0 +1,1 @@
+This page will contain information regarding resource generation.
