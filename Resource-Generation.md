@@ -17,3 +17,11 @@ The conversions are as follows; Dust -> Clay, Dirt -> Mud, stone dust variants -
 ## Primitive Lava Condenser
 
 Will fill Buckets with Lava. Is not actually a source of Lava.
+
+## Cobble Gen
+
+Will generate Cobblestone and place it in an inventory above. Higher tiers exist and work at higher speeds.
+
+## Dirt Gen
+
+Will generate Dirt and place it in an inventory above. Higher tiers exist and work at higher speeds.
