@@ -13,3 +13,7 @@ Insert a raw ore of any kind and it will generate a corresponding ore above it f
 Will fill Buckets with Water and converts some items into other items.
 
 The conversions are as follows; Dust -> Clay, Dirt -> Mud, stone dust variants -> Clay Ball.
+
+## Primitive Lava Condenser
+
+Will fill Buckets with Lava.
