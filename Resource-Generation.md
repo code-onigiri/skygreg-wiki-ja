@@ -32,4 +32,4 @@ Will generate Dirt and place it in an inventory above. Higher tiers exist and wo
 
 You start with a Netherite Hammer in an Item Frame, there are different tiers just like pickaxes. Harvesting blocks in the world with a crushing hammer will crush the block, converting it into another item.
 
-The conversions are as follows; Stone/Cobblestone -> Gravel, Gravel -> Sand, Sand -> Dust, Dirt -> Plant Fiber or random saplings.
+The conversions are as follows; Stone/Cobblestone -> Gravel, Gravel -> Sand, Sand -> Dust, Dirt -> Plant Fiber or saplings.
