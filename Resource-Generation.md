@@ -2,7 +2,7 @@ You start with the following blocks on your platform however you must pick them 
 
 ## Random Ore Generator (Placement)
 
-Will generate 1 random ore above it per tick. Mine the ore away to generate another random ore. Use this mechanic to get at least 1 of a raw ore that you desire then use that raw ore in the Raw Conversion Generator. There is an upgraded version of this block that will produce an item in its inventory instead of placing a block in the world. This would be available once you obtain Steel Ingots.
+Will generate 1 random ore above it for you to mine. Mine the ore away to generate another random ore. Use this mechanic to get at least 1 of a raw ore that you desire then use that raw ore in the Raw Conversion Generator. There is an upgraded version of this block that will produce an item in its inventory instead of placing a block in the world. This would be available once you obtain Steel Ingots.
 
 ## Raw Conversion Generator
 
