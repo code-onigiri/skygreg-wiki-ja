@@ -10,10 +10,10 @@ Insert a raw ore of any kind and it will generate a corresponding ore above it f
 
 ## Primitive Water Condenser
 
-Will fill Buckets with Water and converts some items into other items.
+Will fill Buckets with Water and converts some items into other items. Is not actually a source of Water.
 
 The conversions are as follows; Dust -> Clay, Dirt -> Mud, stone dust variants -> Clay Ball.
 
 ## Primitive Lava Condenser
 
-Will fill Buckets with Lava.
+Will fill Buckets with Lava. Is not actually a source of Lava.
