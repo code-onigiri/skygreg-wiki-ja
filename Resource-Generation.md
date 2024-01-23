@@ -1,6 +1,6 @@
 ## Basic Resource Generation
 
-You start with the following blocks on your platform however you must pick them up and place them back down again for them to function. There are 2 main blocks. On the left is the Random Ore Generator (Placement) and on the right is the Raw Conversion Generator.
+You start with the following blocks on your platform however you must pick them up and place them back down again for them to function (just the Ore Generators). There are 2 main blocks. On the left is the Random Ore Generator (Placement) and on the right is the Raw Conversion Generator.
 
 ### Random Ore Generator (Placement)
 
