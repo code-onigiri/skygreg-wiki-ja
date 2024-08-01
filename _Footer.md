@@ -1,1 +1,1 @@
-[HOME](https://github.com/MindBrain27/Sky-Greg/wiki)
+[ホーム](https://github.com/MindBrain27/Sky-Greg/wiki)

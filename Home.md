@@ -1,5 +1,5 @@
-Welcome to the Sky Greg wiki!
+ようこそSkyGregWikiに!
 
-This wiki will contain information regarding the Sky Greg modpack.
+このwikiはSkyGregに関する情報が乗っています。
 
-Navigate the pages using the side bar on the right.
+右のサイドバーを使ってページを移動してください。
