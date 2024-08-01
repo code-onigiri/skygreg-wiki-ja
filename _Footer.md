@@ -1,1 +1,1 @@
-[ホーム](https://github.com/MindBrain27/Sky-Greg/wiki)
+[ホーム](https://github.com/code-onigiri/skygreg-wiki-ja/wiki)
